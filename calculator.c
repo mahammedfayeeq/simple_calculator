@@ -32,4 +32,11 @@ int main()
 
 	printf("division:%.2f\n",quot);
 
+        prod=-num1*num2;
 
+	printf("multiplication:%.2f\n",prod);
+	 
+
+	return 0;
+        
+}
