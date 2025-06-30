@@ -12,8 +12,10 @@ int main()
     
 	
 	sum=num+num2;
-
-
 	printf("/nresult:\n");
 	printf("addition:%2f/n",sum);
+        
+        diff=num1-num2;
+	printf("subtraction:%.2f\n",diff);
+
 
