@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	float num1,num2;
-	float sum,diff,prod,qout;
+	int num1,num2;
+	int sum,diff,prod,qout;
 	printf("enter first number:");
 	scanf("%f",&num1);
 
@@ -36,7 +36,7 @@ int main()
 
 	printf("multiplication:%.2f\n",prod);
 	 
-
+         
 	return 0;
         
 }
