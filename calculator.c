@@ -1,4 +1,6 @@
 #include<stdio.h>
+using namespace.std
+
 int main()
 {
 	int num1,num2;
@@ -10,7 +12,6 @@ int main()
 	printf("enter second number:");
 	scanf("%f",&num2);
     
-	
 	sum=num+num2;
 	printf("/nresult:\n");
 	printf("addition:%2f/n",sum);
